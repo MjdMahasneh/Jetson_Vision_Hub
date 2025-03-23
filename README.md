@@ -8,16 +8,13 @@ We will use
 Additionally, we will use **OpenCV** to perform **face detection** with a pre-trained Haar cascades.
 
 
-
-# to-do:
-- test with ubunto's release for NVIDIA: [Install Ubuntu on NVIDIA Jetson](https://ubuntu.com/download/nvidia-jetson)
-
-
-
-
 ![https://static.cytron.io/image/tutorial/nvidia-jetson-orin-nano-8gb-dev-kit-offers-80x-ai-perf-vs-jetson-nano/JN-ORNN-8G-DK_diagramD.jpg](./sample/JN-ORNN-8G-DK_diagramD.jpg)
 
 
+
+
+# to-do:
+- test with ubunto's release for NVIDIA: [Install Ubuntu on NVIDIA Jetson](https://ubuntu.com/download/nvidia-jetson)
 
 
 # Contents
