@@ -1,5 +1,7 @@
 ## Jetson Orin Nano tutorial, from zero to hero in one repository!
 
+
+
 This repository is your ultimate guide to getting started with the **NVIDIA Jetson Orin Nano**. It covers both **hardware setup** and **software configuration**.
 We will use 
 [YOLOv11](https://github.com/ultralytics/ultralytics) to perform **object detection** with our [Jetson Orin Nano](https://developer.nvidia.com/buy-jetson).
@@ -7,7 +9,8 @@ Additionally, we will use **OpenCV** to perform **face detection** with a pre-tr
 
 
 
-
+# to-do:
+- test with ubunto's release for NVIDIA: [Install Ubuntu on NVIDIA Jetson](https://ubuntu.com/download/nvidia-jetson)
 
 
 
@@ -538,3 +541,4 @@ python yolo_camera_test.py
 # Conclusion
 
 In this tutorial, we covered the hardware and software setup for the Jetson Orin Nano. We installed PyTorch and OpenCV, and ran face detection with Haar cascades and object detection with YOLOv11. We hope this tutorial helps you get started with your Jetson Orin Nano and explore the world of AI and robotics. Please star the repository if you found it helpful. Feel free to contribute and share your feedback. Happy coding!
+
