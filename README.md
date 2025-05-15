@@ -14,8 +14,8 @@ Additionally, we will use **OpenCV** to perform **face detection** with a pre-tr
 
 
 # to-do:
-- [] test with ubunto's release for NVIDIA: [Install Ubuntu on NVIDIA Jetson](https://ubuntu.com/download/nvidia-jetson).
-- [] Implement pruning for better inference speed.
+- [ ] test with ubunto's release for NVIDIA: [Install Ubuntu on NVIDIA Jetson](https://ubuntu.com/download/nvidia-jetson).
+- [ ] Implement pruning for better inference speed.
 
 # Also see:
 - My [YOLO ONNX Inference Tutorial](https://github.com/MjdMahasneh/yolo_onnx_inference_tutorial) to learn how to handle ONNX inference for corss platform applications and speeding up, or to implement custom post processing if needed.
